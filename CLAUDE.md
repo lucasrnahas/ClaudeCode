@@ -20,5 +20,5 @@ Cómo aplicarlo:
    - **un ejemplo con números reales**,
    - y, si se puede, un gráfico interactivo donde el usuario mueva ese término y vea cómo cambia el resultado.
 3. En la terminal dejá un resumen corto (2–4 líneas) y el link a la pizarra. El texto completo vive en la pizarra.
-4. Para respuestas triviales (un "sí", un comando, una confirmación) no hace falta pizarra: respondé directo en la terminal.
+4. Para dudas puntuales y respuestas cortas (un "sí", un comando, una confirmación, una diferencia entre dos conceptos) no hace falta pizarra: respondé directo en texto. La pizarra es para temas completos.
 5. Cada pizarra nueva es un archivo nuevo en el scratchpad (no en el repo), salvo que el usuario pida guardarla.
